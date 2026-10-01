@@ -69,18 +69,6 @@ I’m a software developer passionate about building scalable web applications, 
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muntazir903&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Muntazir's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntazir903&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=Muntazir903&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
