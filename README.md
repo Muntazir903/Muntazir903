@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Syed Muhammad Muntazir — Full-Stack Developer"
+    width="100%"
+  />
+</p>
+
 # 👋 Hey, I'm Muntazir
 
 ### 🚀 Full-Stack Developer | Python & React Developer | Data Science Enthusiast
