@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="./assets/profile-banner.png"
-    alt="Syed Muhammad Muntazir — Full-Stack Developer"
+    src="./Neon-Full-Stack-Developer-Banner.png"
+    alt="Syed Muhammad Muntazir - Full-Stack Developer"
     width="100%"
   />
 </p>
