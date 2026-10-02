@@ -81,12 +81,17 @@ I’m a software developer passionate about building scalable web applications, 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Muntazir903">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/muhammad-muntazir-8a64883ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add your LinkedIn profile and professional email here -->
-</p>
+  <a href="mmmkazmi903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
+  <a href="https://www.upwork.com/freelancers/~010f76b38630e63e60" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6CC04A?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" />
+  </a>
+</p>
 ---
 
 <p align="center">
